@@ -5,4 +5,8 @@ public class HelloWorld{
    public void main1(){
         System.out.println(“Hello World”);
    }   
+   //modify file in develop branch
+     public void main2(){
+        System.out.println(“Hello World”);
+   }   
 }
